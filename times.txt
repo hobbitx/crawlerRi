@@ -1,0 +1,6 @@
+Quantidade escalonadores: 10;Tempo gasto: 111.637073
+Quantidade escalonadores: 20;Tempo gasto: 120.575052
+Quantidade escalonadores: 40;Tempo gasto: 116.029153
+Quantidade escalonadores: 80;Tempo gasto: 111.16649
+Quantidade escalonadores: 100;Tempo gasto: 120.454808
+Quantidade escalonadores: 60;Tempo gasto: 120.671306
